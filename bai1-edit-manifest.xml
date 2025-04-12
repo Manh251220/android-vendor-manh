@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+<remote name="imx-android-vendor-manh" fetch="https://github.com/Manh251220" review="" />
+
+<project path="vendor/nxp-opensource/imx" name="android-vendor-manh" remote="imx-android-vendor-manh" revision="33a8644787f2776eb9d0b3fdc7ce0e6118ba2a5e" />
+
+</manifest>
